@@ -59,7 +59,7 @@ const caesarCipher = (str, amount = 0) => {
   };
 
 module.exports = {
-    caesarCipher,
-    symbolCipher,
-    reverseCipher
+  caesarCipher,
+  symbolCipher,
+  reverseCipher
 };
