@@ -18,8 +18,8 @@ This method replaces selected characters from the input message with visually si
 In this method, each word of the input message is reversed in place.
 
 You can check the results in:
-- [`message-mixer.js`](link-to-message-mixer.js)
-- [`encryptors.js`](link-to-encryptors.js)
-- [`super-encoder.js`](link-to-super-encoder.js)
+- [`message-mixer.js`](https://github.com/biancatrindade/message_mixer/blob/bianca/message-mixer.js)
+- [`encryptors.js`](https://github.com/biancatrindade/message_mixer/blob/bianca/encryptors.js)
+- [`super-encoder.js`](https://github.com/biancatrindade/message_mixer/blob/bianca/super-encoder.js)
 
 **See you there!**
